@@ -28,4 +28,10 @@ Its ~~october~~(hackctober month) ...add your codes and contribute to open sourc
 - Naruto
 
 
+<br/>
+<br/>
+
+
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=nirala69.open_source_start)
+
 
