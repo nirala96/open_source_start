@@ -21,11 +21,12 @@ Its ~~october~~(hackctober month) ...add your codes and contribute to open sourc
 - money heist
 - breakiing bad
 - stranger things
-
+- friends
 ### -⚡ Anime walo sey kaise bach sakte hai(dal do apne fav anime )
 ---
 - DeathNote
 - Naruto
+- one punch man
 
 
 <br/>
