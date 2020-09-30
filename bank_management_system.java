@@ -1,5 +1,6 @@
-import java.util.*;
-class create_account
+import java.util.*;           //importing java.util
+
+class create_account                     // a class which craetes account
 {
     String name,acc_type;
     double money;
@@ -61,6 +62,34 @@ class bank
         money=(money-50);
         else
         money=(money-ten_percent);
+    }
+     double show_amount()
+    {
+        return money;
+    }
+}
+
+
+
+class cd extends bank                  //class cd extends bank class
+{
+    String name,acc_type;
+    double money;
+    int acc_num;
+    cd(String acc_name,String type,int num,double amount)
+    {
+        name = acc_name;
+        acc_type = type;
+        acc_num = num;
+        money = amount;
+    }
+    void fifteen_percent_interest_yearly()
+    {
+        money = (money + (money*15/100));
+    }
+    void penalty_before_12month()
+    {
+        money = money - (money/5);
     }
      double show_amount()
     {
@@ -158,32 +187,6 @@ class checking extends bank
         money = (money + (money*7/100));
     }
     double show_amount()
-    {
-        return money;
-    }
-}
-
-class cd extends bank
-{
-    String name,acc_type;
-    double money;
-    int acc_num;
-    cd(String acc_name,String type,int num,double amount)
-    {
-        name = acc_name;
-        acc_type = type;
-        acc_num = num;
-        money = amount;
-    }
-    void fifteen_percent_interest_yearly()
-    {
-        money = (money + (money*15/100));
-    }
-    void penalty_before_12month()
-    {
-        money = money - (money/5);
-    }
-     double show_amount()
     {
         return money;
     }
