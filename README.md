@@ -1,4 +1,4 @@
-# open_source_start (https://visitor-badge.laobi.icu/badge?page_id=nirala69.nirala69)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+# open_source_start <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 Its ~~october~~(hackctober month) ...add your codes and contribute to open source 
 
 ###### *fisa mein tshirt ki bhookh hai...XD*
