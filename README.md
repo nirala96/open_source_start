@@ -3,7 +3,7 @@ Its ~~october~~(hackctober month) ...add your codes and contribute to open sourc
 
 ###### *fisa mein tshirt ki bhookh hai...XD*
 
-### - some important links 😄
+### - some important links 😄 - please consider reading
 ---
 - [hacktoberfest website](https://hacktoberfest.digitalocean.com/)
 - [mark down cheat sheet](https://www.markdownguide.org/cheat-sheet/)/[online markdown editor](https://dillinger.io/)
