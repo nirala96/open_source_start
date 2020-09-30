@@ -14,7 +14,7 @@ Its ~~october~~(hackctober month) ...add your codes and contribute to open sourc
 ---
 1. fork this repo
 2. add codes via uploads or any other means to your forked repo
-3. create pull request ...and i am sitting ready to confirm
+3. create pull request ...and i am sitting ready to confirm and merge
 
 ### -⚡ List of amazing webseries i would recommend (add yours)
 ---
