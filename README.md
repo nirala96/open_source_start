@@ -1,15 +1,15 @@
-# open_source_start
+# open_source_start (https://visitor-badge.laobi.icu/badge?page_id=nirala69.nirala69)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 Its ~~october~~(hackctober month) ...add your codes and contribute to open source 
 
 ###### *fisa mein tshirt ki bhookh hai...XD*
 
-### some important links
+### - some important links
 ---
 
 - [Link of mark down cheat sheet](https://www.markdownguide.org/cheat-sheet/)
 
 
-### steps
+### - steps
 ---
 1. fork this repo
 2. add codes via uploads or any other means to your forked repo
