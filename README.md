@@ -16,11 +16,16 @@ Its ~~october~~(hackctober month) ...add your codes and contribute to open sourc
 2. add codes via uploads or any other means to your forked repo
 3. create pull request ...and i am sitting ready to confirm
 
-### - List of amazing webseries i would recommend
+### - List of amazing webseries i would recommend (add yours)
 ---
 - money heist
 - breakiing bad
 - stranger things
+
+### - Anime walo sey kaise bach sakte hai(dal do apne fav anime )
+---
+- DeathNote
+- Naruto
 
 
 
