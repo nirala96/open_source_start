@@ -29,6 +29,8 @@ Its ~~october~~(hackctober month) ...add your codes and contribute to open sourc
 - DeathNote
 - Naruto
 - one punch man
+- Attack on Titan
+- Haikyuu!!
 
 
 <br/>
