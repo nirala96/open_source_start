@@ -39,7 +39,7 @@ Its ~~october~~(hackctober month) ...add your codes and contribute to open sourc
 
 <p align="center">
     
-    <a href="https://www.linkedin.com/in/arunoday-kumar-3a2b37193" alt="Linkedin"><img width="35px" src="https://github.com/nirala69/nirala69/blob/master/linkedin.png"></a>
+    <a href="https://www.linkedin.com/in/arunoday-kumar-3a2b37193" alt="Linkedin"><img width="35px" src="linkedin.png"></a>
     
 </p>
 
