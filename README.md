@@ -22,6 +22,8 @@ Its ~~october~~(hackctober month) ...add your codes and contribute to open sourc
 - breakiing bad
 - stranger things
 - friends
+<br/>
+<br/>
 ### -⚡ Anime walo sey kaise bach sakte hai(dal do apne fav anime )
 ---
 - DeathNote
