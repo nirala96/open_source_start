@@ -13,7 +13,7 @@ void traversal()
 	{
 		printf("%d  ",s->data);
 		s=s->next;
-		
+
 	}
 	printf("\n");
 }
@@ -34,7 +34,7 @@ void insert_end(int newdata)
 	p->next=node;
 }
 void insert_loc(int newdata,int loc)
-{int k;
+{//int k;
 l * p;
 node=(l*)malloc(sizeof(l));
 node->data=newdata;
@@ -44,7 +44,7 @@ if(loc==1){
 	start=node;
 }
 else{
-for(k=1;k<loc-1;k++)
+for(int k=1;k<loc-1;k++)
 {
   p=p->next;
 }}
@@ -69,6 +69,7 @@ else
   temp=start;
   start=temp->next;
   free(temp);
+   temp = NULL;
 }
 }
 
@@ -117,10 +118,10 @@ else
   {
     printf("data not found");
   }
-  
+
 }
 
-	
+
 }
 void middle(){
 	node=start;
