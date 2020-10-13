@@ -24,6 +24,7 @@ Its ~~october~~(hackctober month) ...add your codes and contribute to open sourc
 - friends
 - game of thrones 
 - breaking bad
+- Witcher
 ### -⚡ Anime walo sey kaise bach sakte hai(dal do apne fav anime )
 ---
 - DeathNote
@@ -31,6 +32,9 @@ Its ~~october~~(hackctober month) ...add your codes and contribute to open sourc
 - one punch man
 - Attack on Titan
 - Haikyuu!!
+- OverLord
+- Kuroko No Basuke 
+- Bleach
 
 
 <br/>
