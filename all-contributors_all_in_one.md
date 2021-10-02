@@ -1,0 +1,434 @@
+# 1. Installing the CLI 
+## Run either of these commands in your project directory terminal 
+- **yarn add --dev all-contributors-cli**
+### OR
+- **npm i -D all-contributors-cli**
+#### Note : Make sure you have installed yarn or node in your machine.
+
+
+# 2. Init the Project
+- **yarn all-contributors init**
+### OR
+- **npx all-contributors init** 
+
+### Or directly execute the bin
+- **./node_modules/.bin/all-contributors init**
+
+
+# 3. Scripts in *package.json* file
+
+```json
+"scripts": {
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate",
+    "contributors:init": "all-contributors init",
+    "contributors:check": "all-contributors check"
+ },
+ ```
+ 
+ # 4. Important commands and their use
+ 
+ - **yarn contributors:add {username} {contribution}** [See contribution types and their emojis](#emoji-key-and-contribution-types)
+ ```
+  Adds new contributor <username>, who made a contribution of type <contribution>
+
+  eg - yarn contributors:add jfmengels code,doc
+ ```
+ 
+ - **yarn contributors:generate**
+```
+Use generate to read the contributors list from your .all-contributorsrc file and update the contributor tables specified 
+by the files key.
+```
+
+- **yarn contributors:init**
+```
+Run this when you first start using the all-contributors-cli. This command asks a few questions and sets up the project for 
+all-contributors. This setup includes creating a .all-contributorsrc configuration file and creating a contributor table 
+in the files you specify (usually your README.md).
+```
+
+- **yarn contributors:check**
+```
+Use check to compare contributors from GitHub with the ones credited in your .all-contributorsrc file, in order to make 
+sure that credit is given where it's due.
+```
+
+# 5. .all-contributorsrc file
+
+```json
+{
+  "projectName": "open_source_start",
+  "projectOwner": "nirala96",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "gitmoji",
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
+  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
+  "contributors": [
+    {
+      "login": "lbaweja1999",
+      "name": "Lakshay",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44081281?v=4",
+      "profile": "https://lakshaybaweja.netlify.app/",
+      "contributions": [
+        "a11y"
+      ]
+    },
+    {
+      "login": "nirala96",
+      "name": "Arunoday kumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56160052?v=4",
+      "profile": "https://github.com/nirala96",
+      "contributions": [
+        "projectManagement",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "Slowgeek",
+      "name": "Ritesh Kumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64855593?v=4",
+      "profile": "https://github.com/Slowgeek",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ifenil",
+      "name": "Fenil Dobariya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70626264?v=4",
+      "profile": "https://github.com/ifenil",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "chaitanyagandhi",
+      "name": "Chaitanya Gandhi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60167156?v=4",
+      "profile": "https://github.com/chaitanyagandhi",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "kantibunkar",
+      "name": "Kanti Bunkar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73030996?v=4",
+      "profile": "https://github.com/kantibunkar",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "yatharth090",
+      "name": "yatharth090",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54454145?v=4",
+      "profile": "https://github.com/yatharth090",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "sameeranand12",
+      "name": "Sameer Anand",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56514538?v=4",
+      "profile": "https://github.com/sameeranand12",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "yash6969",
+      "name": "yash6969",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56515264?v=4",
+      "profile": "https://github.com/yash6969",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Ayushsinhahaha",
+      "name": "Ayush Sinha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54765074?v=4",
+      "profile": "https://www.instagram.com/picturehaha_/?hl=en",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "kapilkumar2001",
+      "name": "Kapil Kumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56160115?v=4",
+      "profile": "https://github.com/kapilkumar2001",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "AshishSingh2001",
+      "name": "Ashish Kumar Singh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51014196?v=4",
+      "profile": "https://github.com/AshishSingh2001",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "4bh1n4v",
+      "name": "4bh1n4v",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54211410?v=4",
+      "profile": "https://github.com/4bh1n4v",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "PHUTANI",
+      "name": "P H U T A N I",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67304438?v=4",
+      "profile": "https://github.com/PHUTANI",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "anavyaupadhyay",
+      "name": "Anavya Upadhyay",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56159215?v=4",
+      "profile": "https://github.com/anavyaupadhyay",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "mlkaregagolu",
+      "name": "mlkaregagolu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72184826?v=4",
+      "profile": "https://github.com/mlkaregagolu",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "divyansh1004",
+      "name": "Divyansh Patel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56514855?v=4",
+      "profile": "https://github.com/divyansh1004",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Naman-1234",
+      "name": "Naman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63748249?v=4",
+      "profile": "https://naman-kalra.netlify.app/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "shivam0110",
+      "name": "Shivam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54373797?v=4",
+      "profile": "https://shivammalpani.netlify.app/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "prithvirajbytes",
+      "name": "Prithviraj Biswas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55537197?v=4",
+      "profile": "https://prithvirajbiswas.com/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "saisuma98",
+      "name": "Sai Suma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33176709?v=4",
+      "profile": "https://github.com/saisuma98",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "abhijeet007rocks8",
+      "name": "Abhijeet Chatterjee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64676594?v=4",
+      "profile": "https://abhijeet007-portfolio.netlify.app/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "mayorJAY",
+      "name": "Joseph Olugbohunmi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37001871?v=4",
+      "profile": "https://www.credential.net/c50aca6c-6c38-4813-9119-68ef62cb30c7",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Shwetankkk",
+      "name": "shwetank singh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56301894?v=4",
+      "profile": "https://github.com/Shwetankkk",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "alinasahoo",
+      "name": "Alina Sahoo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71794673?v=4",
+      "profile": "https://github.com/alinasahoo",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "bhavesh1235",
+      "name": "Bhavesh Lokre",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55055550?v=4",
+      "profile": "https://www.linkedin.com/in/bhavesh-lokre-36b71a165/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "tmw9",
+      "name": "Jugal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28689575?v=4",
+      "profile": "https://github.com/tmw9",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "julianmangut",
+      "name": "Julián Cuéllar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23103398?v=4",
+      "profile": "https://github.com/julianmangut",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "DeviantPadam",
+      "name": "Padam Gupta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46322297?v=4",
+      "profile": "https://github.com/DeviantPadam",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "mdaga06",
+      "name": "mdaga06",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55628156?v=4",
+      "profile": "https://github.com/mdaga06",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "rajatsing",
+      "name": "Rajat Singh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17253992?v=4",
+      "profile": "https://www.linkedin.com/in/rajat-singh-0b6404113/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "gokhalevedant06",
+      "name": "Vedant Gokhale",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79954118?v=4",
+      "profile": "https://github.com/gokhalevedant06",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "chauhanprakhar",
+      "name": "Prakhar Chauhan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54539712?v=4",
+      "profile": "https://github.com/chauhanprakhar",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "shouryamaanjain",
+      "name": "shouryamaanjain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72159602?v=4",
+      "profile": "https://github.com/shouryamaanjain",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "sethiojas",
+      "name": "Ojas Sethi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41361833?v=4",
+      "profile": "https://github.com/sethiojas",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
+
+```
+
+# Emoji Key and Contribution Types
+
+|       Emoji/Type       |        Represents        |                                         Comments                                         |
+|:----------------------:|:------------------------:|:----------------------------------------------------------------------------------------:|
+|       🔊<br>audio       |           Audio          |                        Podcasts, background music or sound effects                       |
+|        ♿️<br>a11y       |       Accessibility      |                       Reporting or working on accessibility issues                       |
+|        🐛<br>bug        |        Bug reports       |                   Links to issues reported by the user on this project                   |
+|        📝<br>blog       |         Blogposts        |                                   Links to the blogpost                                  |
+|      💼<br>business     |   Business Development   |                          People who execute on the business end                          |
+|        💻<br>code       |           Code           |                       Links to commits by the user on this project                       |
+|      🖋<br>content      |          Content         |                        e.g. website copy, blog posts are separate                        |
+|        🔣<br>data       |           Data           |            Links to contributed data for the project (both tests and datasets)           |
+|        📖<br>doc        |       Documentation      |   Links to commits by the user on this project, Wiki, or other source of documentation   |
+|       🎨<br>design      |          Design          |                     Links to the logo/iconography/visual design/etc.                     |
+|      💡<br>example      |         Examples         |                                   Links to the examples                                  |
+|  📋<br>eventOrganizing  |     Event Organizers     |                                    Links to event page                                   |
+|     💵<br>financial     |     Financial Support    |           People or orgs who provide financial support, links to relevant page           |
+|   🔍<br>fundingFinding  |   Funding/Grant Finders  |                          People who help find financial support                          |
+|       🤔<br>ideas       |     Ideas & Planning     |                                                                                          |
+|       🚇<br>infra       |      Infrastructure      | Hosting, Build-Tools, etc. Links to source file (like travis.yml) in repo, if applicable |
+|    🚧<br>maintenance    |        Maintenance       |   People who help in maintaining the repo, links to commits by the user on this project  |
+|     🧑‍🏫<br>mentoring    |         Mentoring        |                People who mentor new contributors, links to the repo home                |
+|      📦<br>platform     |         Packaging        |                             Porting to support a new platform                            |
+|       🔌<br>plugin      | Plugin/utility libraries |                                  Links to the repo home                                  |
+| 📆<br>projectManagement |    Project Management    |                                                                                          |
+|      💬<br>question     |    Answering Questions   |            Answering Questions in Issues, Stack Overflow, Gitter, Slack, etc.            |
+|      🔬<br>research     |         Research         |                                    Literature review.                                    |
+|       👀<br>review      |  Reviewed Pull Requests  |                                                                                          |
+|      🛡️<br>security     |         Security         |                Identify and/or reduce security threats, GDPR, Privacy, etc               |
+|        🔧<br>tool       |           Tools          |                                  Links to the repo home                                  |
+|    🌍<br>translation    |        Translation       |                              Links to the translated content                             |
+|        ⚠️<br>test       |           Tests          |                       Links to commits by the user on this project                       |
+|      ✅<br>tutorial     |         Tutorials        |                                   Links to the tutorial                                  |
+|        📢<br>talk       |           Talks          |                          Links to the slides/recording/repo/etc                          |
+|    📓<br>userTesting    |       User Testing       |                                 Links to user test notes                                 |
+|       📹<br>video       |          Videos          |                                    Links to the video                                    |
+
+
+# Note : If you want to make any change in the feel and look of contributors, you can do it in the .all-contributorsrc file.
