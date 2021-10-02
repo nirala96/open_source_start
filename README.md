@@ -1,6 +1,6 @@
 # open_source_start <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Its ~~october~~(hackctober month) ...add your codes and contribute to open source 
 
@@ -99,6 +99,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://www.linkedin.com/in/bhavesh-lokre-36b71a165/"><img src="https://avatars.githubusercontent.com/u/55055550?v=4" width="100px;" alt=""/><br /><sub><b>Bhavesh Lokre</b></sub></a></td>
     <td align="center"><a href="https://github.com/tmw9"><img src="https://avatars.githubusercontent.com/u/28689575?v=4" width="100px;" alt=""/><br /><sub><b>Jugal</b></sub></a></td>
     <td align="center"><a href="https://github.com/julianmangut"><img src="https://avatars.githubusercontent.com/u/23103398?v=4" width="100px;" alt=""/><br /><sub><b>Julián Cuéllar</b></sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/DeviantPadam"><img src="https://avatars.githubusercontent.com/u/46322297?v=4" width="100px;" alt=""/><br /><sub><b>Padam Gupta</b></sub></a></td>
   </tr>
 </table>
 
