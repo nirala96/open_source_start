@@ -429,3 +429,6 @@ sure that credit is given where it's due.
 |        📢<br>talk       |           Talks          |                          Links to the slides/recording/repo/etc                          |
 |    📓<br>userTesting    |       User Testing       |                                 Links to user test notes                                 |
 |       📹<br>video       |          Videos          |                                    Links to the video                                    |
+
+
+# Note : If you want to make any change in the feel and look of contributors, you can do it in the .all-contributorsrc file.

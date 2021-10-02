@@ -12,15 +12,7 @@
   "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
   "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
   "contributors": [
-    {
-      "login": "lbaweja1999",
-      "name": "Lakshay",
-      "avatar_url": "https://avatars.githubusercontent.com/u/44081281?v=4",
-      "profile": "https://lakshaybaweja.netlify.app/",
-      "contributions": [
-        "a11y"
-      ]
-    },
+    
     {
       "login": "nirala96",
       "name": "Arunoday kumar",
@@ -31,7 +23,16 @@
         "maintenance"
       ]
     },
-    {
+   {
+      "login": "lbaweja1999",
+      "name": "Lakshay",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44081281?v=4",
+      "profile": "https://lakshaybaweja.netlify.app/",
+      "contributions": [
+        "a11y"
+      ]
+    },
+     {
       "login": "Slowgeek",
       "name": "Ritesh Kumar",
       "avatar_url": "https://avatars.githubusercontent.com/u/64855593?v=4",
