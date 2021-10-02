@@ -30,6 +30,15 @@
         "projectManagement",
         "maintenance"
       ]
+    },
+    {
+      "login": "Slowgeek",
+      "name": "Ritesh Kumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64855593?v=4",
+      "profile": "https://github.com/Slowgeek",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7
