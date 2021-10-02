@@ -1,6 +1,6 @@
 # open_source_start <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Its ~~october~~(hackctober month) ...add your codes and contribute to open source 
 
@@ -71,6 +71,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/ifenil"><img src="https://avatars.githubusercontent.com/u/70626264?v=4" width="100px;" alt=""/><br /><sub><b>Fenil Dobariya</b></sub></a></td>
     <td align="center"><a href="https://github.com/chaitanyagandhi"><img src="https://avatars.githubusercontent.com/u/60167156?v=4" width="100px;" alt=""/><br /><sub><b>Chaitanya Gandhi</b></sub></a></td>
     <td align="center"><a href="https://github.com/kantibunkar"><img src="https://avatars.githubusercontent.com/u/73030996?v=4" width="100px;" alt=""/><br /><sub><b>Kanti Bunkar</b></sub></a></td>
+    <td align="center"><a href="https://github.com/yatharth090"><img src="https://avatars.githubusercontent.com/u/54454145?v=4" width="100px;" alt=""/><br /><sub><b>yatharth090</b></sub></a></td>
   </tr>
 </table>
 
