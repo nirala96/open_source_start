@@ -1,6 +1,6 @@
 # open_source_start <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-25-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-26-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Its ~~october~~(hackctober month) ...add your codes and contribute to open source 
 
@@ -96,6 +96,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://www.credential.net/c50aca6c-6c38-4813-9119-68ef62cb30c7"><img src="https://avatars.githubusercontent.com/u/37001871?v=4" width="100px;" alt=""/><br /><sub><b>Joseph Olugbohunmi</b></sub></a></td>
     <td align="center"><a href="https://github.com/Shwetankkk"><img src="https://avatars.githubusercontent.com/u/56301894?v=4" width="100px;" alt=""/><br /><sub><b>shwetank singh</b></sub></a></td>
     <td align="center"><a href="https://github.com/alinasahoo"><img src="https://avatars.githubusercontent.com/u/71794673?v=4" width="100px;" alt=""/><br /><sub><b>Alina Sahoo</b></sub></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/bhavesh-lokre-36b71a165/"><img src="https://avatars.githubusercontent.com/u/55055550?v=4" width="100px;" alt=""/><br /><sub><b>Bhavesh Lokre</b></sub></a></td>
   </tr>
 </table>
 
