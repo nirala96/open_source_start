@@ -1,6 +1,6 @@
 # open_source_start <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Its ~~october~~(hackctober month) ...add your codes and contribute to open source 
 
@@ -90,6 +90,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://shivammalpani.netlify.app/"><img src="https://avatars.githubusercontent.com/u/54373797?v=4" width="100px;" alt=""/><br /><sub><b>Shivam</b></sub></a></td>
     <td align="center"><a href="https://prithvirajbiswas.com/"><img src="https://avatars.githubusercontent.com/u/55537197?v=4" width="100px;" alt=""/><br /><sub><b>Prithviraj Biswas</b></sub></a></td>
     <td align="center"><a href="https://github.com/saisuma98"><img src="https://avatars.githubusercontent.com/u/33176709?v=4" width="100px;" alt=""/><br /><sub><b>Sai Suma</b></sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://abhijeet007-portfolio.netlify.app/"><img src="https://avatars.githubusercontent.com/u/64676594?v=4" width="100px;" alt=""/><br /><sub><b>Abhijeet Chatterjee</b></sub></a></td>
   </tr>
 </table>
 
