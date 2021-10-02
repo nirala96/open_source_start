@@ -26,7 +26,7 @@
  ```
  
  # 4. Important commands and their use
- - yarn contributors:add {username} {contribution} [See contribution types and their emojis](#emoji-key-and-contribution-types)
+ - **yarn contributors:add {username} {contribution}** [See contribution types and their emojis](#emoji-key-and-contribution-types)
  ```
   Adds new contributor <username>, who made a contribution of type <contribution>
 
@@ -38,7 +38,7 @@ Use generate to read the contributors list from your .all-contributorsrc file an
 by the files key.
 ```
 
-# Emoji Key ✨ (and Contribution Types)
+# Emoji Key and Contribution Types
 
 |       Emoji/Type       |        Represents        |                                         Comments                                         |
 |:----------------------:|:------------------------:|:----------------------------------------------------------------------------------------:|
