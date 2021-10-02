@@ -1,6 +1,6 @@
 # 1. Installing the CLI 
 ## Run either of these commands in your project directory terminal 
--  <span style="color:blue">**yarn add --dev all-contributors-cli**</span>
+-  <span style="color:blue"> *yarn add --dev all-contributors-cli* </span>
 ### OR
 - **npm i -D all-contributors-cli**
 #### Note : Make sure you have installed yarn or node in your machine.
