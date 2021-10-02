@@ -1,6 +1,6 @@
-# 1. Installing the CLI [directly execute the bin](#emoji-key)
+# 1. Installing the CLI 
 ## Run either of these commands in your project directory terminal 
-- **yarn add --dev all-contributors-cli**
+-  <span style="color:blue">**yarn add --dev all-contributors-cli**</span>
 ### OR
 - **npm i -D all-contributors-cli**
 #### Note : Make sure you have installed yarn or node in your machine.
@@ -10,11 +10,11 @@
 ### OR
 - **npx all-contributors init** 
 
-### Or [directly execute the bin](#emoji-key)
+### Or directly execute the bin
 - **./node_modules/.bin/all-contributors init**
 
 
-### Emoji Key 
+# Emoji Key 
 
 |       Emoji/Type       |        Represents        |                                         Comments                                         |
 |:----------------------:|:------------------------:|:----------------------------------------------------------------------------------------:|
