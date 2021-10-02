@@ -1,6 +1,6 @@
 # open_source_start <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-30-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-31-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Its ~~october~~(hackctober month) ...add your codes and contribute to open source 
 
@@ -103,6 +103,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/DeviantPadam"><img src="https://avatars.githubusercontent.com/u/46322297?v=4" width="100px;" alt=""/><br /><sub><b>Padam Gupta</b></sub></a></td>
     <td align="center"><a href="https://github.com/mdaga06"><img src="https://avatars.githubusercontent.com/u/55628156?v=4" width="100px;" alt=""/><br /><sub><b>mdaga06</b></sub></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/rajat-singh-0b6404113/"><img src="https://avatars.githubusercontent.com/u/17253992?v=4" width="100px;" alt=""/><br /><sub><b>Rajat Singh</b></sub></a></td>
   </tr>
 </table>
 
