@@ -1,9 +1,10 @@
 # 1. Installing the CLI 
 ## Run either of these commands in your project directory terminal 
--  <span style="color:blue"> yarn add --dev all-contributors-cli </span>
+- **yarn add --dev all-contributors-cli**
 ### OR
 - **npm i -D all-contributors-cli**
 #### Note : Make sure you have installed yarn or node in your machine.
+
 
 # 2. Init the Project
 - **yarn all-contributors init**
@@ -14,7 +15,30 @@
 - **./node_modules/.bin/all-contributors init**
 
 
-# Emoji Key 
+# 3. Scripts in *package.json* file
+```json
+"scripts": {
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate",
+    "contributors:init": "all-contributors init",
+    "contributors:check": "all-contributors check"
+ },
+ ```
+ 
+ # 4. Important commands and their use
+ - yarn contributors:add {username} {contribution} [See contribution types and their emojis](#emoji-key-and-contribution-types)
+ ```
+  Adds new contributor <username>, who made a contribution of type <contribution>
+
+  eg - yarn contributors:add jfmengels code,doc
+ ```
+ - **yarn contributors:generate**
+```
+Use generate to read the contributors list from your .all-contributorsrc file and update the contributor tables specified 
+by the files key.
+```
+
+# Emoji Key ✨ (and Contribution Types)
 
 |       Emoji/Type       |        Represents        |                                         Comments                                         |
 |:----------------------:|:------------------------:|:----------------------------------------------------------------------------------------:|
