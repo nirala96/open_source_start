@@ -1,0 +1,24 @@
+{
+  "projectName": "open_source_start",
+  "projectOwner": "nirala96",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "gitmoji",
+  "contributors": [
+    {
+      "login": "lbaweja1999",
+      "name": "Lakshay",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44081281?v=4",
+      "profile": "https://lakshaybaweja.netlify.app/",
+      "contributions": [
+        "a11y"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}

@@ -1,4 +1,7 @@
 # open_source_start <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 Its ~~october~~(hackctober month) ...add your codes and contribute to open source 
 
 ###### *fisa mein tshirt ki bhookh hai...XD*
@@ -52,3 +55,23 @@ Its ~~october~~(hackctober month) ...add your codes and contribute to open sourc
 </p>
 
 
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://lakshaybaweja.netlify.app/"><img src="https://avatars.githubusercontent.com/u/44081281?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lakshay</b></sub></a><br /><a href="#a11y-lbaweja1999" title="Accessibility">️️️️♿️</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
