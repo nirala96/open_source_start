@@ -393,7 +393,7 @@ sure that credit is given where it's due.
 
 ```
 
-# 6. Emoji Key and Contribution Types
+# Emoji Key and Contribution Types
 
 |       Emoji/Type       |        Represents        |                                         Comments                                         |
 |:----------------------:|:------------------------:|:----------------------------------------------------------------------------------------:|
