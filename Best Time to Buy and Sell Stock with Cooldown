@@ -1,0 +1,32 @@
+class Solution {
+    public int maxProfit(int[] prices) {
+       // return solve(prices,0,false);
+        return dp(prices);
+    }
+    public int solve(int [] prices,int idx,boolean is){
+        if(idx>=prices.length)
+            return 0;
+        if(is){
+            // stock sell
+            int a=solve(prices,idx+2,false)+prices[idx];
+            //stock retain
+            int b=solve(prices,idx+1,true);
+            return Math.max(a,b);
+        }
+        //stock buy 
+        int a=solve(prices,idx+1,true)-prices[idx];
+        //stock dont buy
+        int b=solve(prices,idx+1,false);
+         return Math.max(a,b);
+    }
+    public int dp(int [] prices){
+        int [][] arr=new int[2][prices.length+2];
+        for(int col=prices.length-1;col>=0;col--){
+            //row==0
+            arr[0][col]=Math.max(arr[1][col+1]-prices[col],arr[0][col+1]);
+            //row==1
+            arr[1][col]=Math.max(arr[0][col+2]+prices[col],arr[1][col+1]);
+        }
+        return arr[0][0];
+    }
+}
