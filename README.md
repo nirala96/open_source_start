@@ -28,6 +28,7 @@ Its ~~october~~(hackctober month) ...add your codes and contribute to open sourc
 - game of thrones 
 - breaking bad
 - Witcher
+- Person of Interest
 ### -⚡ Anime walo sey kaise bach sakte hai(dal do apne fav anime )
 ---
 - DeathNote
@@ -38,6 +39,7 @@ Its ~~october~~(hackctober month) ...add your codes and contribute to open sourc
 - OverLord
 - Kuroko No Basuke 
 - Bleach
+
 
 
 <br/>
