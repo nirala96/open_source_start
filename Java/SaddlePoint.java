@@ -2,15 +2,17 @@
 
 Examples : 
 
-Input: Mat[3][3] = { {1, 2, 3},
-                  {4, 5, 6},
-                  {7, 8, 9}}
+Input: - Enter the matrix size:
+       - 3
+       - Enter the value:
+       - 1 2 3 4 5 6 7 8 9
 Output: 7
 7 is minimum in its row and maximum in its column.
 
-Input: Mat[3][3] = {{1, 2, 3},
-                    {4, 5, 6},
-                    {10, 18, 4}}
+Input: - Enter the matrix size:
+       - 3
+       - Enter the value:
+       - 1 2 3 4 5 6 10 18 4
 Output: No saddle point */
 
 import java.util.*;
@@ -18,12 +20,12 @@ class SaddlePoint {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         int n, j, i, k, max, f = 0, min, c;
-        System.out.println("Enter matrix size");
+        System.out.println("Enter matrix size:");
         n = sc.nextInt();
         int a[][] = new int[n][n];
         for (i = 0; i < n; i++) {
             for (j = 0; j < n; j++) {
-                System.out.println("Enter the value");
+                System.out.println("Enter the value:");
                 a[i][j] = sc.nextInt();
             }
         }
@@ -49,12 +51,12 @@ class SaddlePoint {
                 }
             }
             if (max == min) {
-                System.out.println("Saddle Point No. " + max);
+                System.out.println("Saddle Point - " + max);
                 f = 1;
             }
         }
         if (f == 0) {
-            System.out.println("No Saddle Point No. in the Matrix");
+            System.out.println("No Saddle Point in the Matrix");
         }
     }
 }
