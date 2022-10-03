@@ -21,14 +21,18 @@ Its ~~october~~(hackctober month) ...add your codes and contribute to open sourc
 
 ### -⚡ List of amazing webseries i would recommend (add yours)
 ---
-- money heist
-- breakiing bad
-- stranger things
-- friends
-- game of thrones 
-- breaking bad
+- Money heist
+- Breakiing bad
+- Stranger things
+- Friends
+- Game of thrones 
 - Witcher
 - Person of Interest
+- Big Bang Theory
+- Vikings
+- How I Met Your Mother
+- 13 Reasons Why
+
 ### -⚡ Anime walo sey kaise bach sakte hai(dal do apne fav anime )
 ---
 - DeathNote
