@@ -43,6 +43,7 @@ Its ~~october~~(hackctober month) ...add your codes and contribute to open sourc
 - OverLord
 - Kuroko No Basuke 
 - Bleach
+- One Piece
 
 
 
