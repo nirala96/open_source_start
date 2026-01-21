@@ -1,0 +1,41 @@
+
+let s="05:05:45PM";
+
+
+timeconversation(s)
+
+function timeconversation(s){
+let ampm=s.charAt(8);
+let mithours="";
+if(ampm==="A"){
+    if(s.substring(0,2)=="12"){
+        mithours="00";
+    }else{
+        mithours=s.substring(0,2);
+    }
+}else{
+    if(s.substring(0,2)=="12"){
+        mithours=s.substring(0,2);
+    }else{
+        mithours=parseInt(s.substring(0,2),10)+12
+    }
+}
+let n= mithours+s.substring(2,8)
+console.log(n)
+}
+
+let count=-1
+for(let el of s){
+count++
+v=el+"           "+count
+console.log(v)
+    
+}
+// let name="SHUBHAM"
+
+// let n=name.substring(0,5)
+
+// console.log(n)
+
+
+// // console.log("hello")
